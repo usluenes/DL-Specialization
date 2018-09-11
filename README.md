@@ -6,30 +6,30 @@ This repository contains my personal projects on Instructor: [Andrew Ng](http://
 
 ### Course Contents
 [***1.Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)   
-Week1:  Introduction to Deep Learning 
-Week2:  Neural Networks Basics 
-Week3:  Shallow Neural Networks 
-Week4:  Deep Neural Networks 
+Week1:  Introduction to Deep Learning   
+Week2:  Neural Networks Basics    
+Week3:  Shallow Neural Networks   
+Week4:  Deep Neural Networks   
 
 [***2.Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome)  
-Week1:  Practical aspects of Deep Learning  
-Week2:  Optimization Algorithms
-Week3:  Hyperparameter Tuning, Batch Normalization and Programming Frameworks  
+Week1:  Practical aspects of Deep Learning   
+Week2:  Optimization Algorithms   
+Week3:  Hyperparameter Tuning, Batch Normalization and Programming Frameworks     
 
 [***3.Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)   
-Week1:  ML  Strategy 1(Setting up your goal, Comparing to human-level performance)
-Week2:  ML Strategy 2(Error Analysis, Mismatched training and dev/test set, Learning from multiple tasks, End-to-end deep learning)
+Week1:  ML  Strategy 1(Setting up your goal, Comparing to human-level performance)   
+Week2:  ML Strategy 2(Error Analysis, Mismatched training and dev/test set, Learning from multiple tasks, End-to-end deep learning)   
 
 [***4.Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks)   
-Week1:  Foundations of Convolutional Neural Networks 
-Week2:  Deep Convolutional Models: Case Studies 
-Week3:  Object Detection  
-Week4:  Special Applications: Face Recognition & Neural Style Transfer
+Week1:  Foundations of Convolutional Neural Networks   
+Week2:  Deep Convolutional Models: Case Studies   
+Week3:  Object Detection    
+Week4:  Special Applications: Face Recognition & Neural Style Transfer   
    
 [***5.Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)   
-Week1:  Recurrent Neural Networks  
-Week2:  Natural Language Processing & Word Embeddings
-Week3:  Sequence models & Attention Mechanism 
+Week1:  Recurrent Neural Networks    
+Week2:  Natural Language Processing & Word Embeddings   
+Week3:  Sequence models & Attention Mechanism   
 
 ## What I Want To Say
 Here I release the projects I have completed through out the specialization courses which are **only for your reference purpose**. It may help you to save time.  You will notice if you read the instructions carefully, the programming assignments are fairly easy. 
