@@ -4,7 +4,7 @@ Deep Learning Specialization Tasks
    
    ------
 ### Course Contents
-[***1.Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+[***1.Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)   
 <font size=1>Week1: Introduction to deep learning</font>  
 <font size=1>Week2: Neural Networks Basics</font>   
 <font size=1>Week3: Shallow Neural networks</font>   
