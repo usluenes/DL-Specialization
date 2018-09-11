@@ -16,7 +16,6 @@ Deep Learning Specialization Tasks
 <font size=1>Week3: Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 
 [***3.Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
-
 <font size=1>Week1: Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)</font>  
 <font size=1>Week2: Optimization algorithms</font>  
 
