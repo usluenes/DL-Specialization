@@ -36,5 +36,5 @@ Here I release the projects I have completed through out the specialization cour
 
 ## Update Records
 Neural Networks and Deep Learning: June 2018 <br/>
-Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: August 2018
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: August 2018 <br/>
 Structuring Machine Learning Projects: September 2018
