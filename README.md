@@ -4,6 +4,9 @@ Deep Learning Specialization Tasks
 ## Introduction
 This repository contains my personal work of programming assigments on Instructor: [Andrew Ng](http://www.andrewng.org/)'s courses.  "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)" 
 
+## What I Want To Say
+Here I release the projects I have completed through out the specialization courses which are **only for your reference purpose**. It may help you to save time.  You will notice if you read the instructions carefully, the programming assignments are fairly easy.
+
 ### Course Contents
 [***1.Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)   
 Week1:  Introduction to Deep Learning   
@@ -30,10 +33,7 @@ Week4:  Special Applications: Face Recognition & Neural Style Transfer
 [***5.Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)   
 Week1:  Recurrent Neural Networks    
 Week2:  Natural Language Processing & Word Embeddings   
-Week3:  Sequence models & Attention Mechanism   
-
-## What I Want To Say
-Here I release the projects I have completed through out the specialization courses which are **only for your reference purpose**. It may help you to save time.  You will notice if you read the instructions carefully, the programming assignments are fairly easy. 
+Week3:  Sequence models & Attention Mechanism    
 
 ## Update Records
 Neural Networks and Deep Learning: June 2018 <br/>
