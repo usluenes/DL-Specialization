@@ -2,7 +2,7 @@
 Deep Learning Specialization Tasks
 
 ## Introduction
-This repository contains my personal projecsts on Instructor: [Andrew Ng](http://www.andrewng.org/)'s courses.  "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)" 
+This repository contains my personal projects on Instructor: [Andrew Ng](http://www.andrewng.org/)'s courses.  "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)" 
 
 
 ### Course Contents
