@@ -4,7 +4,6 @@ Deep Learning Specialization Tasks
 ## Introduction
 This repository contains my personal projects on Instructor: [Andrew Ng](http://www.andrewng.org/)'s courses.  "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)" 
 
-
 ### Course Contents
 [***1.Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)   
 <font size=1>Week1:  Introduction to Deep Learning</font>   
@@ -21,7 +20,6 @@ This repository contains my personal projects on Instructor: [Andrew Ng](http://
 <font size=1>Week1:  ML  Strategy 1(Setting up your goal, Comparing to human-level performance)</font>  
 <font size=1>Week2:  ML Strategy 2(Error Analysis, Mismatched training and dev/test set, Learning from multiple tasks, End-to-end deep learning)</font>   
 
-
 [***4.Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks)   
 <font size=1>Week1:  Foundations of Convolutional Neural Networks</font>  
 <font size=1>Week2:  Deep Convolutional Models: Case Studies</font>  
@@ -32,3 +30,5 @@ This repository contains my personal projects on Instructor: [Andrew Ng](http://
 <font size=1>Week1:  Recurrent Neural Networks</font>  
 <font size=1>Week2:  Natural Language Processing & Word Embeddings</font>  
 <font size=1>Week3:  Sequence models & Attention Mechanism</font>  
+
+## Update Records
