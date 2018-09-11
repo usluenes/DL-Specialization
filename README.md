@@ -16,10 +16,14 @@ Deep Learning Specialization Tasks
 <font size=1>Week3:  Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 
 [***3.Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)   
-<font size=1>Week1:  Machine Learning  Strategy 1</font>  
+<font size=1>Week1:  ML  Strategy 1</font>  
    -Setting up your goal   
    -Comparing to human-level performance   
-<font size=1>Week2:  Optimization algorithms</font>  
+<font size=1>Week2:  ML Strategy 2</font>   
+   -Error Analysis   
+   -Mismatched training and dev/test set   
+   -Learning from multiple tasks   
+   -End-to-end deep learning   
 
 [***4.Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks)   
 <font size=1>Week1:  Foundations of Convolutional Neural Networks</font>  
