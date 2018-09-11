@@ -31,6 +31,9 @@ This repository contains my personal projects on Instructor: [Andrew Ng](http://
 <font size=1>Week2:  Natural Language Processing & Word Embeddings</font>  
 <font size=1>Week3:  Sequence models & Attention Mechanism</font>  
 
+## What I Want To Say
+Here I release the projects I have completed through out the specialization courses which are **only for your reference purpose**. It may help you to save time.  You will notice if you read the instructions carefully, the programming assignments are fairly easy. 
+
 ## Update Records
 Neural Networks and Deep Learning: June 2018   
 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: August 2018   
