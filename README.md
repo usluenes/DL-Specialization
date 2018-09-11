@@ -17,7 +17,7 @@ Deep Learning Specialization Tasks
 
 [***3.Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)   
 <font size=1>Week1:  ML  Strategy 1(Setting up your goal, Comparing to human-level performance)</font>  
-<font size=1>Week2:  ML Strategy 2(-Error Analysis, -Mismatched training and dev/test set, -Learning from multiple tasks, -End-to-end deep learning)</font>   
+<font size=1>Week2:  ML Strategy 2(Error Analysis, Mismatched training and dev/test set, Learning from multiple tasks, End-to-end deep learning)</font>   
 
 
 [***4.Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks)   
