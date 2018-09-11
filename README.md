@@ -8,6 +8,7 @@ This repository contains my personal projects on Instructor: [Andrew Ng](http://
 [***1.Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)   
 Week1:  Introduction to Deep Learning   
 Week2:  Neural Networks Basics    
+- [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/usluenes/DL-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20Mindset/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 Week3:  Shallow Neural Networks   
 Week4:  Deep Neural Networks   
 
