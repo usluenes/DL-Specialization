@@ -15,17 +15,17 @@ Deep Learning Specialization Tasks
 <font size=1>Week2: Optimization algorithms</font>  
 <font size=1>Week3: Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 
-[***3.Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+[***3.Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)   
 <font size=1>Week1: Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)</font>  
 <font size=1>Week2: Optimization algorithms</font>  
 
-**Convolutional Neural Network**  
+[***4.Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks)   
 <font size=1>Week1: Foundations of Convolutional Neural Networks</font>  
 <font size=1>Week2: Deep convolutional models: case studies</font>  
 <font size=1>Week3: Object detection</font>  
 <font size=1>Week4: Special applications: Face recognition & Neural style transfer</font>  
    
-**Sequence Models**  
+[***5.Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)   
 <font size=1>Week1: Recurrent Neural Networks</font>  
 <font size=1>Week2: Natural Language Processing & Word Embeddings</font>  
 <font size=1>Week3: Sequence models & Attention mechanism</font>  
