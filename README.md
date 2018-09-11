@@ -5,7 +5,7 @@ Deep Learning Specialization Tasks
    ------
 ### Course Contents
 [***1.Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)   
-<font size=1>Week1:  Introduction to Deep Learning</font>  
+<font size=1>Week1:  Introduction to Deep Learning</font>   
 <font size=1>Week2:  Neural Networks Basics</font>   
 <font size=1>Week3:  Shallow Neural Networks</font>   
 <font size=1>Week4:  Deep Neural Networks</font>   
@@ -16,9 +16,7 @@ Deep Learning Specialization Tasks
 <font size=1>Week3:  Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 
 [***3.Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)   
-<font size=1>Week1:  ML  Strategy 1</font>  
-   -Setting up your goal   
-   -Comparing to human-level performance   
+<font size=1>Week1:  ML  Strategy 1(Setting up your goal, Comparing to human-level performance)</font>  
 <font size=1>Week2:  ML Strategy 2</font>   
    -Error Analysis   
    -Mismatched training and dev/test set   
