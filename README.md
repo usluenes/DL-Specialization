@@ -13,6 +13,7 @@ Week1:  Introduction to Deep Learning
 Week2:  Neural Networks Basics   
          [*PA 1 - Logistic Regression with a Neural Network Mindset*](https://github.com/usluenes/DL-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20Mindset/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)   
 Week3:  Shallow Neural Networks   
+[*PA 2 - Planar Data Classification with One Hidden Layer*](https://github.com/usluenes/DL-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20Data%20Classification%20with%20one%20hidden%20layer/Planar%20data%20classification%20with%20one%20hidden%20layer%20v3.ipynb)   
 Week4:  Deep Neural Networks   
 
 [***2.Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome)  
