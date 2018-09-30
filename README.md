@@ -15,8 +15,8 @@ Week2:  Neural Networks Basics
 Week3:  Shallow Neural Networks   
 [*PA 2 - Planar Data Classification with One Hidden Layer*](https://github.com/usluenes/DL-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20Data%20Classification%20with%20one%20hidden%20layer/Planar%20data%20classification%20with%20one%20hidden%20layer%20v3.ipynb)   
 Week4:  Deep Neural Networks   
-[*PA 3 - Building your Deep Neural Network-Step by Step*](https://github.com/usluenes/DL-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)   
-
+[*PA 3 - Building your Deep Neural Network - Step by Step*](https://github.com/usluenes/DL-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)   
+[*PA 4 - Deep Neural Network - Application*](https://github.com/usluenes/DL-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20Application/Deep%20Neural%20Network%20-%20Application.ipynb) 
 
 [***2.Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome)  
 Week1:  Practical aspects of Deep Learning   
